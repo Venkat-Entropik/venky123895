@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkataramana Devathoti</h1>
+<h1 align="center">Hi 👋, I'm Venkata Ramana Devathoti</h1>
 
 # 💫 About Me:
 Frontend Web Developer<br>Passionate about crafting elegant and responsive web experiences. Skilled in HTML, CSS, JavaScript, and modern frontend frameworks like React. Committed to creating user-friendly interfaces that blend aesthetics with functionality. Open to collaborating on exciting web development projects.
